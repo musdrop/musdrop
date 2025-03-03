@@ -24,13 +24,13 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 
 **框架**  
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-62833F?logo=spring)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4F508D?logo=vue.js)
 
 **工具**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-2956ED?logo=docker)
+![MySQL](https://img.shields.io/badge/-MySQL-F67341?logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-DC182D?logo=redis)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity)
 
 **核心能力**:  
