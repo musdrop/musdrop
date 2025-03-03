@@ -10,7 +10,7 @@
 ---
 
 ## 📚 Education  
-**Nanjing University of Aeronautics and Astronautics (NUAA, 211)**  
+**Nanjing University of Aeronautics and Astronautics (NUAA)**  
 🎓 Software Engineering  
 📅 2022.9 - Present  
 
