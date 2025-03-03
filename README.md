@@ -16,18 +16,18 @@
 ---
 
 ## 🔧 技术栈  
-### 编程语言  
+**编程语言**  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 
-### 框架
+**框架**  
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)
 
-### 工具
+**工具**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)
