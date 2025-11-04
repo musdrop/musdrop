@@ -18,24 +18,24 @@
 
 ## 🔧 Tech Stack  
 **Programming Languages**  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
 
 **Frameworks**  
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-62833F?logo=spring)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-62833F?logo=spring)  
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4F508D?logo=vue.js)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
 
 **Tools & Databases**  
 ![Docker](https://img.shields.io/badge/-Docker-2956ED?logo=docker)
-![MySQL](https://img.shields.io/badge/-MySQL-F67341?logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-DC182D?logo=redis)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity)  
 
 **Core Competencies**:  
-- Full-stack Development (SpringBoot + Vue3)  
+- Full-stack Development (SpringBoot + Vue3/React)  
 - Multithreading & Network Programming (C++ Socket)  
 - Database Design & Optimization (MySQL + MyBatis-Plus)  
 - Containerized Deployment (Docker + Shell Scripting)  
@@ -44,9 +44,9 @@
 
 ## 📊 Dashboard  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musdrop&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musdrop&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musdrop&layout=compact&theme=radical)  
 
 ---
 
 **🌈 Open Source is Belief, Code is Art.**  
-**📬 Feel free to reach out for tech discussions or collaborations!**  
+**📬 Feel free to reach out for tech discussions or collaborations!**
